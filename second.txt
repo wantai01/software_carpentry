@@ -6,4 +6,3 @@ second line
 =======
 my second file
 >>>>>>> parent of 45a5e0f... added more lines
-last line
